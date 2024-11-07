@@ -25,7 +25,7 @@
     "dependencies": {
       "chalk": "^5.3.0",
       "random-words": "^2.0.1"
-    },
+    } ,
     "devDependencies": {
       "@eslint/js": "^9.10.0",
       "eslint": "^9.10.0",
